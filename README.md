@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/SCLOUDFER/RK_TIMP.svg?token=U2yq96bxsVuEjyeHFpHN&branch=master)](https://travis-ci.com/SCLOUDFER/RK_TIMP)
+[![Build Status](https://travis-ci.com/SCLOUDFER/RK_TIMP.svg?branch=master)](https://travis-ci.com/SCLOUDFER/RK_TIMP)
 
 ## Build
 - cmake -H. -B_build -DCMAKE_INSTALL_PREFIX=_install -DBUILD_TESTS=ON
